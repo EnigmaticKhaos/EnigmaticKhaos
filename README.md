@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small projects to further my learning and understanding.
 - 📫 How to reach me eccentricenigma88@gmail.com
 - 😄 Pronouns: .He/Him
-- ⚡ Fun fact: I dabble in unreal engine creating videogames in my free time.
+- ⚡ Fun fact: I dabble in unreal engine creating video games in my free time.
 
 <!---
 EnigmaticKhaos/EnigmaticKhaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
